@@ -1,4 +1,63 @@
-<h1> Hi I'm Mohamed 👋</h1>
+<h1>Hi there! 👋 I'm Mohamed</h1>
+
+<p>I am a <strong>front-end developer</strong> passionate about creating responsive, dynamic, and visually appealing web applications. Here are some of the technologies I specialize in:</p>
+
+<h2>🚀 Skills</h2>
+
+<h3>Languages</h3>
+<ul>
+  <li><strong>HTML5</strong>: Semantic, accessible, and SEO-friendly markup.</li>
+  <li><strong>CSS3</strong>: Responsive design, Flexbox, Grid, animations, and pre-processors like SASS.</li>
+  <li><strong>JavaScript (ES6+)</strong>: DOM manipulation, event handling, and functional programming.</li>
+</ul>
+
+<h3>Libraries/Frameworks</h3>
+<ul>
+  <li><strong>React.js</strong>: Component-based architecture, Hooks, Context API.</li>
+  <li><strong>Bootstrap</strong>: Prebuilt components and grid system for responsive design.</li>
+  <li><strong>jQuery</strong>: DOM manipulation and AJAX.</li>
+</ul>
+
+<h3>Tools</h3>
+<ul>
+  <li><strong>Git & GitHub</strong>: Version control, branching, and code collaboration.</li>
+  <li><strong>Chrome DevTools</strong>: Debugging and optimizing for performance.</li>
+  <li><strong>Webpack</strong>: Module bundling and asset management.</li>
+  <li><strong>VSCode</strong>: Efficient coding with extensions and shortcuts.</li>
+</ul>
+
+<h2>💻 Projects</h2>
+<p>Here are some projects that demonstrate my front-end expertise:</p>
+
+<h3>1. Portfolio Website</h3>
+<ul>
+  <li><strong>Technologies</strong>: HTML, CSS, JavaScript</li>
+  <li><strong>Description</strong>: A personal portfolio showcasing my projects and skills with a clean and modern design.</li>
+</ul>
+
+<h3>2. E-commerce Website</h3>
+<ul>
+  <li><strong>Technologies</strong>: React.js, Bootstrap, CSS</li>
+  <li><strong>Description</strong>: A responsive e-commerce website with dynamic product listings and shopping cart functionality.</li>
+</ul>
+
+<h3>3. Movie/Anime Data App</h3>
+<ul>
+  <li><strong>Technologies</strong>: JavaScript, HTML, CSS, API Integration</li>
+  <li><strong>Description</strong>: An app that fetches and displays data from a movie and anime API, allowing users to search and view details.</li>
+</ul>
+
+<h2>🛠️ What I'm Currently Learning</h2>
+<ul>
+  <li><strong>React.js advanced concepts</strong>: Context API, Hooks, and performance optimization.</li>
+  <li><strong>Chart.js</strong>: Interactive and dynamic charts for data visualization.</li>
+</ul>
+
+<h2>📫 Get in Touch</h2>
+<ul>
+  <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/Mohammed-M-Abdelsalam/" target="_blank">Your LinkedIn</a></li>
+  <li><strong>Email</strong>: <a href="mailto:mo.magdyabdelsalam@gmail.com">mo.magdyabdelsalam@gmail.com</a></li>
+</ul>
 
 
 <!--
