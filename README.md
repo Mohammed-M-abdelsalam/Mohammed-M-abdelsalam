@@ -34,12 +34,14 @@
 </ul>
 
 <h3>2. E-commerce Website  Data App</h3>
+<a href="https://mohammed-m-abdelsalam.github.io/wearwave_frontend/">Live Demo</a>
 <ul>
   <li><strong>Technologies</strong>:JavaScript, HTML, CSS, API Integration</li>
   <li><strong>Description</strong>: A responsive website that fetches and displays data from an e-commerce API</li>
 </ul>
 
 <h3>3. Courses Website</h3>
+<a href="https://mohammed-m-abdelsalam.github.io/courses-website/">Live Demo</a>
 <ul>
   <li><strong>Technologies</strong>: JavaScript, HTML, CSS</li>
   <li><strong>Description</strong>: An app with dynamic course listings, allowing users to search, filter and view details.</li>
