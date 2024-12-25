@@ -15,14 +15,12 @@
 <ul>
   <li><strong>React.js</strong>: Component-based architecture, Hooks, Context API.</li>
   <li><strong>Bootstrap</strong>: Prebuilt components and grid system for responsive design.</li>
-  <li><strong>jQuery</strong>: DOM manipulation and AJAX.</li>
 </ul>
 
 <h3>Tools</h3>
 <ul>
   <li><strong>Git & GitHub</strong>: Version control, branching, and code collaboration.</li>
   <li><strong>Chrome DevTools</strong>: Debugging and optimizing for performance.</li>
-  <li><strong>Webpack</strong>: Module bundling and asset management.</li>
   <li><strong>VSCode</strong>: Efficient coding with extensions and shortcuts.</li>
 </ul>
 
@@ -35,21 +33,21 @@
   <li><strong>Description</strong>: A personal portfolio showcasing my projects and skills with a clean and modern design.</li>
 </ul>
 
-<h3>2. E-commerce Website</h3>
+<h3>2. E-commerce Website  Data App</h3>
 <ul>
-  <li><strong>Technologies</strong>: React.js, Bootstrap, CSS</li>
-  <li><strong>Description</strong>: A responsive e-commerce website with dynamic product listings and shopping cart functionality.</li>
+  <li><strong>Technologies</strong>:JavaScript, HTML, CSS, API Integration</li>
+  <li><strong>Description</strong>: A responsive website that fetches and displays data from an e-commerce API</li>
 </ul>
 
-<h3>3. Movie/Anime Data App</h3>
+<h3>3. Courses Website</h3>
 <ul>
-  <li><strong>Technologies</strong>: JavaScript, HTML, CSS, API Integration</li>
-  <li><strong>Description</strong>: An app that fetches and displays data from a movie and anime API, allowing users to search and view details.</li>
+  <li><strong>Technologies</strong>: JavaScript, HTML, CSS</li>
+  <li><strong>Description</strong>: An app with dynamic course listings, allowing users to search, filter and view details.</li>
 </ul>
 
 <h2>🛠️ What I'm Currently Learning</h2>
 <ul>
-  <li><strong>React.js advanced concepts</strong>: Context API, Hooks, and performance optimization.</li>
+  <li><strong>React.js advanced concepts</strong>: React Router, Hooks, and performance optimization.</li>
   <li><strong>Chart.js</strong>: Interactive and dynamic charts for data visualization.</li>
 </ul>
 
