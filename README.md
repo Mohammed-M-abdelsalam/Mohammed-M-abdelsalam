@@ -29,7 +29,7 @@
 
 <h3>1. Portfolio Website</h3>
 <ul>
-  <li><strong>Technologies</strong>: HTML, CSS, JavaScript</li>
+  <li><strong>Technologies</strong>: HTML, CSS, ReactJS</li>
   <li><strong>Description</strong>: A personal portfolio showcasing my projects and skills with a clean and modern design.</li>
 </ul>
 
