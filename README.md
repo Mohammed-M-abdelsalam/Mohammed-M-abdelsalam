@@ -28,8 +28,9 @@
 <p>Here are some projects that demonstrate my front-end expertise:</p>
 
 <h3>1. Portfolio Website</h3>
+<a href="https://mohammed-magdy.vercel.app/">Live Demo</a>
 <ul>
-  <li><strong>Technologies</strong>: HTML, CSS, ReactJS</li>
+  <li><strong>Technologies</strong>: HTML, CSS, Bootstrap, ReactJS</li>
   <li><strong>Description</strong>: A personal portfolio showcasing my projects and skills with a clean and modern design.</li>
 </ul>
 
